@@ -1,0 +1,20 @@
+This package was debianized by the alien program by converting
+a binary .rpm package on Tue, 05 Nov 2013 10:43:12 +0100
+
+Copyright: GPL
+
+Information from the binary package:
+Name        : check_mk-agent               Relocations: (not relocatable)
+Version     : 1.2.2p3                           Vendor: (none)
+Release     : 1                             Build Date: Tue Nov  5 10:43:10 2013
+Install Date: (not installed)               Build Host: mathias-kettner.de
+Group       : System/Monitoring             Source RPM: check_mk-1.2.2p3-1.src.rpm
+Size        : 264036                           License: GPL
+Signature   : (none)
+URL         : http://mathias-kettner.de/check_mk
+Summary     : Linux-Agent for check_mk
+Description :
+This package contains the agent for check_mk. Install this on
+all Linux machines you want to monitor via check_mk. You'll need
+xinetd to run this agent.
+
